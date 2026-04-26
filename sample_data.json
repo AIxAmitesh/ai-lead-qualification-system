@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Rahul",
+    "email": "rahul@gmail.com",
+    "message": "I want pricing for your premium plan. Please contact me ASAP."
+  },
+  {
+    "name": "Amit",
+    "email": "amit123@gmail.com",
+    "message": "Just exploring your platform. What does it do?"
+  },
+  {
+    "name": "Spam Bot",
+    "email": "spam@fake.com",
+    "message": "Make money fast!!! Click here!!!"
+  }
+]
