@@ -48,6 +48,16 @@ An AI-driven system that:
 
 ---
 
+## Demo
+
+Loom Video: https://www.loom.com/share/73a9e8b8aa1a48009c17c8893181eae2
+
+This video explains:
+- System design  
+- Prompt engineering approach  
+- Key decisions  
+- Trade-offs 
+
 ## Sample Input
 
 ```json
