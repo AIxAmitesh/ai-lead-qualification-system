@@ -58,11 +58,8 @@ This video explains:
 - Key decisions  
 - Trade-offs 
 
-## Sample Input
+---
 
-```json
-{
-  "name": "Rahul",
-  "email": "rahul@gmail.com",
-  "message": "I want pricing for your premium plan. Please contact me ASAP."
-}
+## System Flow
+
+Lead Input → AI Processing → JSON Output → Action Trigger
